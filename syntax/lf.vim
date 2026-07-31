@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language: lf file manager configuration file (lfrc)
-" Maintainer: Andis Sprinkis <andis@sprinkis.com>
+" Maintainer: Andis Sprinkis <andis@sprinkis.com>, @CatsDeservePets
 " Former Maintainer: Cameron Wright
 " URL: https://github.com/andis-sprinkis/lf-vim
 " Last Change: 4 Feb 2026
